@@ -4,3 +4,62 @@ body {
     height: 100%
     margin: 0;
   }
+  h1 {
+    color: white;
+    font-family: Georgia;
+    font-size: 50px;
+  }
+  h2 {
+    color: white;
+    font-family: Georgia;
+    text-align: center;
+  }
+  h3 {
+    color: rgb(212, 194, 223);
+    font-family: Georgia;
+    text-align: center;
+    font-size: 15px;
+  }
+  h4 {
+    color: rgb(212, 194, 223);
+    font-family: Georgia;
+    font-size: 25px;
+  }
+  h5 {
+    color: rgb(212, 194, 223);
+    font-family: Georgia;
+    text-align: left;
+    font-size: 15px;
+  }
+  h6 {
+    color: rgb(212, 194, 223);
+    font-family: Georgia;
+    font-size: 15px;
+    width: 200px;
+    height: 200px;
+  }
+  h7 {
+    color: rgb(212, 194, 223);
+    font-family: Georgia;
+    font-size: 15px;
+    width: 200px;
+    height: 200px;
+    text-align: right;
+  }
+  .container {width:1500px;
+    margin:0 auto;
+    padding: 100px 50px;
+    border:1px solid white;
+    background:rgb(248, 233, 199); }
+
+  div {
+    width: 700px;
+    height: 200px;
+  margin:auto;
+  font-family: "Georgia";
+  color: rgb(212, 194, 223);
+  background: white;
+  text-align: center;
+  padding: 1px;
+  }
+  
